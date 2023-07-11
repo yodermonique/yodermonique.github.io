@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Monique Yoder"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student; Applied Linguist, Language Assessment Developer and Researcher; L2 Writing Teacher and Researcher, "
-  location         : "Michigan State University"
+  bio              : "Ph.D. Student; Applied Linguist, Language Assessment Developer and Researcher; L2 Writing Teacher and Researcher, Writing Center Research Manager"
+  location         : "East Lansing, MI"
   employer         : "Michigan State University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "yodermon@msu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
