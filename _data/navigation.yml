@@ -1,22 +1,25 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Assessment Experience"
+    url: /AssessmentExperience/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Teaching / Administration"
+    url: /TeachingAdmin/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Writing Center Work"
+    url: /WritingCenter/
+
+  - title: "Projects & Research"
+    url: /ProjectsResearch   
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Presentations / Publications"
+    url: /PresentationsPublications/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Service"
+    url: /Service/
+    
+  - title: "Completed Coursework
+    url: /CompletedCoursework/
     
   - title: "CV (external link)"
     url: https://docs.google.com/document/d/1e3kJR1_aKJSGl17RqDp8EzYBce1uCDJU/edit
-    
-  - title: "Guide"
-    url: /markdown/
